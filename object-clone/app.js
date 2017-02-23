@@ -190,6 +190,7 @@ zing // ${JSON.stringify(zing, null, 2)}
 `
 }
 
+// Example of writing a deepClone function
 var js = {
   isCool: true,
   isLame: false,
@@ -200,9 +201,7 @@ var js = {
   frameworks: [
     'angular',
     'react',
-    {
-      name: 'vue'
-    }
+    { name: 'vue' }
   ]
 }
 
