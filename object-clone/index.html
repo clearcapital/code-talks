@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Basic Template</title>
+    <style>
+      .wrapper {
+        margin-left: auto;
+        margin-right: auto;
+        width: 400px;
+      }
+
+      .pass, .fail {
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+
+      .pass {
+        color: green;
+      }
+
+      .fail {
+        color: red;
+      }
+
+      pre {
+        border: 1px solid #ccc;
+        padding: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1>JS Object Cloning</h1>
+      <div>
+        <button onclick="test1()">Test 1</button>
+        <button onclick="test2()">Test 2</button>
+        <button onclick="test3_F()">Test 3F</button>
+        <button onclick="test3_P()">Test 3P</button>
+        <button onclick="test4_F()">Test 4F</button>
+        <button onclick="test4_P()">Test 4P</button>
+      </div>
+      <h2 class="h2"></h2>
+      <pre>
+        <code class="code"></code>
+      </pre>
+    </div>
+    <script src="../node_modules/babel-standalone/babel.min.js"></script>
+    <script src="../node_modules/lodash/lodash.min.js"></script>
+    <script src="app.js" type="text/babel" data-presets="es2015,stage-1"></script>
+  </body>
+</html>
