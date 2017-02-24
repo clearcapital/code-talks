@@ -1,5 +1,5 @@
-- 2017.03.23 
-- 2017.03.16 Elias
-- 2017.03.09 Jon
-- 2017.03.02 Travis
-- 2017.02.23 Object cloning: Jordan
+- [ ] 2017.03.23 
+- [ ] 2017.03.16 Elias
+- [ ] 2017.03.09 Jon
+- [ ] 2017.03.02 Travis
+- [x] 2017.02.23 Object cloning: Jordan
