@@ -1,5 +1,5 @@
-- [ ] 2017.03.23 
+- [ ] 2017.03.23
 - [ ] 2017.03.16 Elias
-- [ ] 2017.03.09 Jon
+- [ ] 2017.03.09 Jon: webgl / three.js
 - [ ] 2017.03.02 Travis: Express middleware
 - [x] 2017.02.23 Jordan: Object cloning
